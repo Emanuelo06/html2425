@@ -2,4 +2,4 @@
 ```
 touch README.md
 ```
-I. Doilea Capitol
+I. Primul Capitol
